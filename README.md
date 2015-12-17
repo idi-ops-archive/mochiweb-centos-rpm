@@ -1,1 +1,0 @@
-# mochiweb-centos-rpm
