@@ -31,7 +31,7 @@ An Erlang library for building lightweight HTTP servers.
 
 
 %prep
-%setup -q
+%setup -q -n mochiweb-%{version}
 %patch1 -p1 -b .couchdb
 %patch2 -p1 -b .r16b01
 
