@@ -1,3 +1,6 @@
+# Do not build debuginfo package
+%define debug_package %{nil}
+
 Name:		erlang-mochiweb
 Version:	2.4.2
 Release:	2%{?dist}
