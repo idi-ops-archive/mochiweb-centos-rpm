@@ -2,6 +2,7 @@
 %define debug_package %{nil}
 
 Name:		erlang-mochiweb
+Epoch:          1
 Version:	2.4.2
 Release:	2%{?dist}
 Summary:	An Erlang library for building lightweight HTTP servers
